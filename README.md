@@ -28,8 +28,8 @@ Data Analytics Bootcamp - Challenge Module 14: In this assignment, you will buil
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
-* For this challenge module, I reviewed the Module 14 class activities extensively and also had guidance from ChatGPT.
+* For this challenge module, I reviewed the Module 14 class activities extensively and also used code generated from ChatGPT.
